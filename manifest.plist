@@ -11,8 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<!-- <string>https://mreg.cbn.id/cbnians/cbnians.ipa</string> -->
-					<string>https://firebasestorage.googleapis.com/v0/b/cbnians.appspot.com/o/cbnians.ipa?alt=media&token=361ad405-8f11-489b-800a-c55c283d602a</string>
+					<string>https://mreg.cbn.id/cbnians/cbnians.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
